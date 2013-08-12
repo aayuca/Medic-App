@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
     <string name="action_settings">Settings</string>
@@ -39,5 +40,7 @@
     <string name="approve_selected_friends">Approve Selecteds and Discard Others</string>
     <string name="not_connected_to_network">There is no available connected network</string>
     <string name="message_cannot_be_sent">Message was not been able to sent</string>
+    <string name="title_activity_help_me">HelpMe</string>
+    <string name="hello_world">Hello world!</string>
 
 </resources>

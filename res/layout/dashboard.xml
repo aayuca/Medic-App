@@ -68,12 +68,13 @@
             android:padding="20dp" >
 
             <Button
+                android:id="@+id/db_b_graphview"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight=".3"
                 android:background="@null"
                 android:drawableTop="@drawable/ic_launcher"
-                android:text="Profile" />
+                android:text="Graph View" />
 
             <Button
                 android:layout_width="wrap_content"
